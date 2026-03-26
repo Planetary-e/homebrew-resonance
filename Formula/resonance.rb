@@ -7,14 +7,14 @@ class Resonance < Formula
   on_macos do
     on_arm do
       url "https://github.com/Planetary-e/resonance/releases/download/v0.1.0/resonance-macos-arm64.tar.gz"
-      sha256 "0f019b41c6dada7701c8f88bf292a1699a53a4a7a702ce67bbf8a7d0b139ca88"
+      sha256 ""
     end
   end
 
   on_linux do
     on_intel do
       url "https://github.com/Planetary-e/resonance/releases/download/v0.1.0/resonance-linux-x64.tar.gz"
-      sha256 "387887734908cb8308674559cfe5f1129c2fb89bf2de5661e681c89ab6a41ed7"
+      sha256 "94150462f9c3ceec97800942a268150906886546b3fa5f9be76ccd8ecd81858b"
     end
   end
 
