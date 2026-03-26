@@ -1,20 +1,20 @@
 class Resonance < Formula
   desc "Privacy-preserving decentralized matching protocol"
   homepage "https://github.com/Planetary-e/resonance"
-  version "0.1.1"
+  version "0.1.2"
   license "MIT"
 
   on_macos do
     on_arm do
-      url "https://github.com/Planetary-e/resonance/releases/download/v0.1.1/resonance-macos-arm64.tar.gz"
+      url "https://github.com/Planetary-e/resonance/releases/download/v0.1.2/resonance-macos-arm64.tar.gz"
       sha256 ""
     end
   end
 
   on_linux do
     on_intel do
-      url "https://github.com/Planetary-e/resonance/releases/download/v0.1.1/resonance-linux-x64.tar.gz"
-      sha256 "c976b2629394c8c22af27e15629db5f8b8baffa28882e6e5faad35a37c5b973e"
+      url "https://github.com/Planetary-e/resonance/releases/download/v0.1.2/resonance-linux-x64.tar.gz"
+      sha256 "4992a16c57ba8d0ca63b9ae71c890f3afd80a6b602d2fbbe5d853c4fb12e36f5"
     end
   end
 
