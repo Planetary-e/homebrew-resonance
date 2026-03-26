@@ -1,7 +1,7 @@
 class Resonance < Formula
   desc "Privacy-preserving decentralized matching protocol"
   homepage "https://github.com/Planetary-e/resonance"
-  version "0.1.2"
+  version "0.2.0"
   license "MIT"
 
   on_macos do
